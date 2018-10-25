@@ -4,7 +4,8 @@
 			"title": "This is the Second Post with a new title",
 			"id": "this-is-the-second-post",
 			"tag": [
-				"mavo"
+				"mavo",
+				"something"
 			],
 			"content": "Oh my god this is awesome"
 		},
