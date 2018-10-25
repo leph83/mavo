@@ -1,8 +1,8 @@
 {
 	"post": [
 		{
-			"title": "this is actually test",
-			"id": "this-is-the-second-post",
+			"title": "second",
+			"id": "second",
 			"tag": [
 				"Mavo"
 			],
