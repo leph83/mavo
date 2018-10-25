@@ -3,7 +3,8 @@
 		{
 			"title": "This is the Second Post",
 			"id": "this-is-the-second-post",
-			"tag": []
+			"tag": [],
+			"content": "Oh my god this is awesome"
 		},
 		{
 			"title": "Test",
