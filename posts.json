@@ -3,11 +3,9 @@
 		{
 			"title": "This is the Second Post with a new title",
 			"id": "this-is-the-second-post",
-			"tag": [
-				"mavo",
-				"something"
-			],
-			"content": "Oh my god this is awesome"
+			"tag": [],
+			"content": "Oh my god this is awesome",
+			"date": "2018-10-25"
 		},
 		{
 			"title": "Test",
