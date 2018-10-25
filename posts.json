@@ -3,7 +3,8 @@
 		{
 			"title": "Test",
 			"id": "test",
-			"tag": []
+			"tag": [],
+			"content": "Hier steht etwas"
 		}
 	]
 }
