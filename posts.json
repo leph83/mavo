@@ -1,6 +1,11 @@
 {
 	"post": [
 		{
+			"title": "Something new",
+			"id": "something-new",
+			"tag": []
+		},
+		{
 			"title": "this is actually test",
 			"id": "this-is-the-second-post",
 			"tag": [],
