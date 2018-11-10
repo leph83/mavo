@@ -5,5 +5,16 @@
 			"tag": [],
 			"id": "test"
 		}
+	],
+	"receipe": [
+		{
+			"title": "Pizza",
+			"zutaten": [
+				"Pizzaboden",
+				"Käse",
+				"Tomate"
+			],
+			"id": "pizza"
+		}
 	]
 }
